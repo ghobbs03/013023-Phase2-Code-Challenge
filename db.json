@@ -97,6 +97,20 @@
       "category": "test category",
       "amount": 20,
       "id": 14
+    },
+    {
+      "date": "2023-03-01",
+      "description": "movie",
+      "category": "entertainment",
+      "amount": -12,
+      "id": 15
+    },
+    {
+      "date": "2023-03-03",
+      "description": "test",
+      "category": "hello",
+      "amount": 140,
+      "id": 16
     }
   ]
 }
